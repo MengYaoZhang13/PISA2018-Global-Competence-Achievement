@@ -1,4 +1,4 @@
-# PISA2018-Global-Competence-Achievement
+# PISA2018-Global-Competence-Academic-Achievement
 
 ## Research Purpose
 This study examines the relationship between global competence and academic achievement using PISA 2018 data.
@@ -53,7 +53,7 @@ IBM SPSS Statistics 27
 
 ## Data Availability
 PISA 2018 data can be obtained from the OECD official website:
-https://www.oecd.org/pisa/data/
+https://www.oecd.org/en/data/datasets/pisa-2018-database.html
 
 IMF development level classification can be accessed from:
 https://www.imf.org/external/pubs/ft/weo/2022/01/weodata/groups.htm
